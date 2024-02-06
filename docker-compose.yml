@@ -1,0 +1,37 @@
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    restart: always
+ 
+  localstack:
+    privileged: true
+    image: localstack/localstack
+    ports:
+      - "127.0.0.1:4566:4566"            # LocalStack Gateway
+      - "127.0.0.1:4510-4559:4510-4559"  # external services port range
+    environment:
+      - SERVICES=sns,sqs
+      - DEBUG=${DEBUG-}
+      - TEST_AWS_ACCOUNT_ID=000000000000
+      - DEFAULT_REGION=us-east-1
+      - DOCKER_HOST=unix:///var/run/docker.sock
+    volumes:
+      - localstack:/tmp/localstack
+      - /var/run/docker.sock:/var/run/docker.sock
+
+volumes:
+  postgres-db-volume:
+  localstack:

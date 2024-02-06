@@ -1,0 +1,884 @@
+{
+  "version": {
+    "json_export": "193",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1074.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "C3 70 D0 EF 0E B9 B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "32 30 20 32 46 20 43 46 20 45 46 20 30 45 20 42 39 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "is_encrypted": false,
+    "has_acroform": false,
+    "is_digitally_signed": false,
+    "pdfua_compliance_level": "",
+    "page_count": 1,
+    "has_embedded_files": false,
+    "is_certified": false,
+    "is_XFA": false,
+    "language": "en"
+  },
+  "elements": [
+    {
+      "Bounds": [
+        6.0,
+        632.2679901123047,
+        192.0,
+        663.7319946289062
+      ],
+      "ClipBounds": [
+        6.0,
+        632.2679901123047,
+        192.0,
+        663.7319946289062
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Title",
+      "Text": "Sick Leave Policy ",
+      "TextSize": 24.0,
+      "attributes": {
+        "LineHeight": 28.75,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        6.0,
+        589.4039916992188,
+        1524.6840515136719,
+        618.3119964599609
+      ],
+      "ClipBounds": [
+        6.0,
+        589.4039916992188,
+        1524.6840515136719,
+        618.3119964599609
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "BAAAAA+LiberationSerif",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P",
+      "Text": "At ROKO Labs, we understand the importance of our employees' health and well-being. This Sick Leave Policy outlines the guidelines and procedures for requesting and utilizing sick leave, and it applies to all regular full-time employees and contractors of ROKO Labs. The policy is designed to support employees during times of illness and ensure a smooth process for both employees and the company. ",
+      "TextSize": 12.0,
+      "attributes": {
+        "SpaceAfter": 11
+      }
+    },
+    {
+      "Bounds": [
+        6.0,
+        563.9039916992188,
+        15.0,
+        579.635986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        563.9039916992188,
+        15.0,
+        579.635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI/Lbl",
+      "Text": "1.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        15.0,
+        563.9039916992188,
+        499.2480163574219,
+        579.635986328125
+      ],
+      "ClipBounds": [
+        15.0,
+        563.9039916992188,
+        499.2480163574219,
+        579.635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI/LBody",
+      "Text": " Eligibility: All direct employees and contractors of ROKO Labs are eligible for sick leave benefits. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        538.4039916992188,
+        15.0,
+        554.135986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        538.4039916992188,
+        15.0,
+        554.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[2]/Lbl",
+      "Text": "2.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        15.0,
+        538.4039916992188,
+        604.4760131835938,
+        554.135986328125
+      ],
+      "ClipBounds": [
+        15.0,
+        538.4039916992188,
+        604.4760131835938,
+        554.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[2]/LBody",
+      "Text": " Sick Leave Entitlement: Each eligible employee is entitled to a maximum of 5 days of paid sick leave per calendar year. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        512.9039916992188,
+        15.0,
+        528.635986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        512.9039916992188,
+        15.0,
+        528.635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[3]/Lbl",
+      "Text": "3.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        15.0,
+        512.9039916992188,
+        716.7480163574219,
+        528.635986328125
+      ],
+      "ClipBounds": [
+        15.0,
+        512.9039916992188,
+        716.7480163574219,
+        528.635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[3]/LBody",
+      "Text": " Usage of Sick Leave: Sick leave is intended to be used when an employee is unable to perform their job duties due to their own illness or injury. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        487.40399169921875,
+        15.0,
+        503.135986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        487.40399169921875,
+        15.0,
+        503.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[4]/Lbl",
+      "Text": "4.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        15.0,
+        487.40399169921875,
+        141.0,
+        503.135986328125
+      ],
+      "ClipBounds": [
+        15.0,
+        487.40399169921875,
+        141.0,
+        503.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[4]/LBody/ParagraphSpan",
+      "Text": " Requesting Sick Leave: ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        23.8125,
+        439.8524627685547,
+        27.9375,
+        470.9774627685547
+      ],
+      "ClipBounds": [
+        23.8125,
+        439.8524627685547,
+        27.9375,
+        470.9774627685547
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[4]/LBody/L/LI/LBody/Figure",
+      "attributes": {
+        "BBox": [
+          23.998999999999796,
+          439.929999999993,
+          27.83889999999974,
+          470.7679999999964
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        23.8125,
+        434.90399169921875,
+        1319.5800476074219,
+        477.3119812011719
+      ],
+      "ClipBounds": [
+        23.8125,
+        434.90399169921875,
+        1319.5800476074219,
+        477.3119812011719
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "BAAAAA+LiberationSerif",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[4]/LBody/L/LI/LBody",
+      "Text": "Employees and contractors must notify their immediate project manager (PM) and their direct manager at ROKO Labs as soon as they become aware that they need to take sick leave. Whenever possible, notification should be provided before the start of the workday. In cases of unexpected illness, employees and contractors are required to notify their project manager, client (if applicable), and direct manager at ROKO Labs as soon as possible but no later than one hour after the start of the workday. In addition to notifying the relevant parties, employees and contractors are also required to submit a sick leave request through our HR platform, BambooHR. This request should include the expected duration of the sick leave and any relevant details. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        409.40399169921875,
+        15.0,
+        425.135986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        409.40399169921875,
+        15.0,
+        425.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[5]/Lbl",
+      "Text": "5.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        15.0,
+        409.40399169921875,
+        219.00360107421875,
+        425.135986328125
+      ],
+      "ClipBounds": [
+        15.0,
+        409.40399169921875,
+        219.00360107421875,
+        425.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[5]/LBody/ParagraphSpan",
+      "Text": " Coordination with Other Leave Types: ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        23.8125,
+        375.3524627685547,
+        27.9375,
+        392.9774627685547
+      ],
+      "ClipBounds": [
+        23.8125,
+        375.3524627685547,
+        27.9375,
+        392.9774627685547
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[5]/LBody/L/LI/Lbl/Figure",
+      "attributes": {
+        "BBox": [
+          23.998999999999796,
+          375.49199999999837,
+          27.83889999999974,
+          392.7719999999972
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        36.0,
+        370.4039764404297,
+        747.5520172119141,
+        399.3119812011719
+      ],
+      "ClipBounds": [
+        36.0,
+        370.4039764404297,
+        747.5520172119141,
+        399.3119812011719
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "BAAAAA+LiberationSerif",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[5]/LBody/L/LI/LBody",
+      "Text": "Unused sick leave does not roll over to the next calendar year and is not eligible for cash payout upon termination or resignation from ROKO Labs. Sick leave is separate from other types of leave such as vacation leave, or other paid time off at ROKO Labs. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        344.9039764404297,
+        15.0,
+        360.635986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        344.9039764404297,
+        15.0,
+        360.635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[6]/Lbl",
+      "Text": "6.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        15.0,
+        344.9039764404297,
+        873.3720245361328,
+        360.635986328125
+      ],
+      "ClipBounds": [
+        15.0,
+        344.9039764404297,
+        873.3720245361328,
+        360.635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[6]/LBody",
+      "Text": " Reporting and Record Keeping: Employees at ROKO Labs are responsible for accurately reporting sick leave taken through the company's designated HR system BambooHR. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        319.4039764404297,
+        15.0,
+        335.135986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        319.4039764404297,
+        15.0,
+        335.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[7]/Lbl",
+      "Text": "7.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        15.0,
+        319.4039764404297,
+        1098.5400390625,
+        335.135986328125
+      ],
+      "ClipBounds": [
+        15.0,
+        319.4039764404297,
+        1098.5400390625,
+        335.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[7]/LBody",
+      "Text": " Compliance: Employees and contractors of ROKO Labs are expected to follow the procedures outlined in this policy when requesting and using sick leave. Failure to comply with this policy may result in disciplinary action. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        293.9039764404297,
+        15.0,
+        309.635986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        293.9039764404297,
+        15.0,
+        309.635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[8]/Lbl",
+      "Text": "8.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        15.0,
+        293.9039764404297,
+        585.5880126953125,
+        309.635986328125
+      ],
+      "ClipBounds": [
+        15.0,
+        293.9039764404297,
+        585.5880126953125,
+        309.635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[8]/LBody",
+      "Text": " Modifications to the Policy: ROKO Labs reserves the right to modify or terminate this sick leave policy at any time. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        268.4039764404297,
+        18.0,
+        284.135986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        268.4039764404297,
+        18.0,
+        284.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[9]/Lbl",
+      "Text": "9. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        254.9039764404297,
+        1520.9280548095703,
+        284.135986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        254.9039764404297,
+        1520.9280548095703,
+        284.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[9]/LBody",
+      "Text": "Compliance with Local Laws and Regulations: Please note that for direct employees, this Sick Leave Policy is designed to comply with all applicable local laws and regulations governing sick leave. If local laws and regulations provide additional benefits or requirements beyond what is outlined in this policy, the local laws and regulations will prevail. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        229.4039764404297,
+        21.0,
+        245.135986328125
+      ],
+      "ClipBounds": [
+        6.0,
+        229.4039764404297,
+        21.0,
+        245.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "AAAAAA+LiberationSerif-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[10]/Lbl",
+      "Text": "10.",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        21.0,
+        229.4039764404297,
+        899.1562347412109,
+        245.135986328125
+      ],
+      "ClipBounds": [
+        21.0,
+        229.4039764404297,
+        899.1562347412109,
+        245.135986328125
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "BAAAAA+LiberationSerif",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[10]/LBody",
+      "Text": " Contact Information: For any questions or concerns regarding sick leave at ROKO Labs, employees and contractors can contact the HR Department by emailing (<mailto:hr@rokolabs.com>)hr@rokolabs.com. ",
+      "TextSize": 12.0
+    },
+    {
+      "Bounds": [
+        6.0,
+        203.9039764404297,
+        1362.6432495117188,
+        219.31198120117188
+      ],
+      "ClipBounds": [
+        6.0,
+        203.9039764404297,
+        1362.6432495117188,
+        219.31198120117188
+      ],
+      "Font": {
+        "alt_family_name": "Liberation Serif",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Liberation Serif",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "BAAAAA+LiberationSerif",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": true,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P[2]",
+      "Text": "By following this Sick Leave Policy, we aim to ensure a healthy and productive work environment for all our employees and contractors at ROKO Labs. Your health and well-being are important to us, and we are committed to providing the necessary support during times of illness. ",
+      "TextSize": 12.0
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          1536.0,
+          677.0399780273438
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          1536.0,
+          677.0399780273438
+        ]
+      },
+      "height": 677.0399780273438,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 1536.0
+    }
+  ]
+}
